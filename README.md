@@ -8,3 +8,5 @@ To try out the game, you can either:
   - Visit [my itch.io page](https://devnerdgr.itch.io/confetti-click) to try it right in your browser
   - Or download the prebuilt binary under the release section
 
+### Enjoy!!! ~GR
+
